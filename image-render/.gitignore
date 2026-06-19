@@ -1,0 +1,6 @@
+config.json
+apod_state.json
+cache/
+*.log
+*.err
+__pycache__/

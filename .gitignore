@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+
+# Arduino build artifacts
+build/
+
+# Asset cache
+**/assets/cache/
+
+# Private CAD source files
+plasticity-private/
