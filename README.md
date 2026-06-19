@@ -5,6 +5,11 @@
 A local e-paper display system that fetches NASA Astronomy Picture of the Day (APOD) on a Mac and shows it on a XIAO ESP32C3 with a 2.13-inch three-color e-paper display.  
 MakerWorld: [E-ink Display Stand](https://makerworld.com/ja/models/2952512).
 
+- WeAct 2.13-Black-White-Red
+- XIAO ESP32C3
+- LiPo 602040
+
+
 ## Structure
 
 - `image-render/`: Mac side. Fetches NASA APOD, renders an e-paper image, and serves it over HTTP.
