@@ -3,6 +3,7 @@
 ![E-ink APOD Display](docs/images/apod-display.jpeg)
 
 A local e-paper display system that fetches NASA Astronomy Picture of the Day (APOD) on a Mac and shows it on a XIAO ESP32C3 with a 2.13-inch three-color e-paper display.
+MakerWorld: [E-ink Display Stand](https://makerworld.com/ja/models/2952512).
 
 ## Structure
 
@@ -46,8 +47,6 @@ Edit `secrets.h` with your Wi-Fi SSID, password, and the host name or IP address
 ## 3D Models
 
 Public 3D model files are in `step/`. Use STEP files for editing and dimensional checks, and the 3MF file for slicer import.
-
-The printable model is also published on MakerWorld: [E-ink Display Stand](https://makerworld.com/ja/models/2952512).
 
 Plasticity working files live in `plasticity-private/` and are not included in the public repository.
 
