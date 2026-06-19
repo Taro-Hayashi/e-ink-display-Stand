@@ -2,7 +2,7 @@
 
 ![E-ink APOD Display](docs/images/apod-display.jpeg)
 
-A local e-paper display system that fetches NASA Astronomy Picture of the Day (APOD) on a Mac and shows it on a XIAO ESP32C3 with a 2.13-inch three-color e-paper display.
+A local e-paper display system that fetches NASA Astronomy Picture of the Day (APOD) on a Mac and shows it on a XIAO ESP32C3 with a 2.13-inch three-color e-paper display.  
 MakerWorld: [E-ink Display Stand](https://makerworld.com/ja/models/2952512).
 
 ## Structure
