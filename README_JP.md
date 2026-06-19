@@ -4,6 +4,8 @@
 
 NASA Astronomy Picture of the Day (APOD) をMacで取得し、XIAO ESP32C3 + 2.13インチ3色電子ペーパーへ表示するローカル表示システム。
 
+MakerWorld: [E-ink Display Stand](https://makerworld.com/ja/models/2952512)。
+
 ## 構成
 
 - `image-render/`: Mac側。NASA APODを取得し、電子ペーパー用画像を生成してHTTP配信する。
@@ -46,8 +48,6 @@ cd xiao-esp32c3-display
 ## 3Dモデル
 
 `step/` に公開用の3Dモデルを置く。編集や寸法確認にはSTEP、スライサーへの読み込みには3MFを使う。
-
-印刷用モデルはMakerWorldでも公開しています: [E-ink Display Stand](https://makerworld.com/ja/models/2952512)。
 
 Plasticityの作業ファイルは `plasticity-private/` に置き、公開対象には含めない。
 
