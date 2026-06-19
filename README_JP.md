@@ -47,6 +47,8 @@ cd xiao-esp32c3-display
 
 `step/` に公開用の3Dモデルを置く。編集や寸法確認にはSTEP、スライサーへの読み込みには3MFを使う。
 
+印刷用モデルはMakerWorldでも公開しています: [E-ink Display Stand](https://makerworld.com/ja/models/2952512)。
+
 Plasticityの作業ファイルは `plasticity-private/` に置き、公開対象には含めない。
 
 ## ライセンス

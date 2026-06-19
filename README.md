@@ -47,6 +47,8 @@ Edit `secrets.h` with your Wi-Fi SSID, password, and the host name or IP address
 
 Public 3D model files are in `step/`. Use STEP files for editing and dimensional checks, and the 3MF file for slicer import.
 
+The printable model is also published on MakerWorld: [E-ink Display Stand](https://makerworld.com/ja/models/2952512).
+
 Plasticity working files live in `plasticity-private/` and are not included in the public repository.
 
 ## License
