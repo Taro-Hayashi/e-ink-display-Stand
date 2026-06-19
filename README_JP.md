@@ -2,9 +2,8 @@
 
 ![E-ink APOD Display](docs/images/apod-display.jpeg)
 
-NASA Astronomy Picture of the Day (APOD) をMacで取得し、XIAO ESP32C3 + 2.13インチ3色電子ペーパーへ表示するローカル表示システム。
-
-MakerWorld: [E-ink Display Stand](https://makerworld.com/ja/models/2952512)。
+NASA Astronomy Picture of the Day (APOD) をMacで取得し、XIAO ESP32C3 + 2.13インチ3色電子ペーパーへ表示するローカル表示システム。 
+MakerWorld: [E-ink Display Stand](https://makerworld.com/ja/models/2952512)
 
 ## 構成
 
